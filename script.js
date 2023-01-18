@@ -45,4 +45,4 @@ function snapCracklePrime(maxValue){
  }
 
 
-console.log(snapCracklePrime(16));
+console.log(snapCracklePrime(50));
